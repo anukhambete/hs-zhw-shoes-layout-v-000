@@ -192,7 +192,7 @@ iframe {
   width: 100%;
   z-index: 1;
   background: url(../images/header-fade.gif);
-  border-bottom: 10px solid #ccc;
+  border-bottom: 1px solid #ccc;
   text-align: center;
 }
 
